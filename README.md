@@ -1,6 +1,4 @@
 # constractiveFunction
-
-<!--
 …or create a new repository on the command line
     echo "# constractiveFunction" >> README.md
     git init
@@ -9,11 +7,7 @@
     git branch -M main
     git remote add origin https://github.com/Jahirul-Islam-Jantu/constractiveFunction.git
     git push -u origin main
-
   …or push an existing repository from the command line
     git remote add origin https://github.com/Jahirul-Islam-Jantu/constractiveFunction.git
     git branch -M main
     git push -u origin main
-
-
- -->
