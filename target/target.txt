@@ -1,0 +1,25 @@
+Express Js
+
+MongoDB
+    PostGreSQL
+
+Rest API
+
+GraphQL
+
+Application Building process
+
+Architecture 
+
+Cloud
+
+Documentation
+
+Testing
+
+Caching
+
+Cap ca 
+
+Distributed Login
+
